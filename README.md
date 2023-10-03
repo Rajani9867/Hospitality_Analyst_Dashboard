@@ -1,1 +1,1 @@
-# Hospitality_Analyst_Dashboard
+# Hospitality_Analyst_Dashboard_In This Project I Analyzes key metrics (occupancy, RevPAR, ADR,Realisation,DSRN) with intuitive visualizations. Provides insights on market trends, regional performance, and external factors.
